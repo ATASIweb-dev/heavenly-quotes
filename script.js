@@ -60,8 +60,8 @@ const ships = [
 
             "The world burns, yet I still reach for you."
         ],
-        image: "assets/characters/ce an pic.jpg",
-        background: "assets/backgrounds/ce an bg.jpg"
+        image: "assets/characters/cean-pic.jpg",
+        background: "assets/backgrounds/cean-bg.jpg"
     }
 
 ];
